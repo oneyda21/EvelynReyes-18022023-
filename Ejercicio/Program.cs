@@ -8,7 +8,7 @@ using Ejercicio.Negocio;
 Nombres nombre = new Nombres();
 ClsOperacion clsNombre = new ClsOperacion();
 
-Console.WriteLine("Ingresa tu nombre u otra palabra para contar la cantidad de letras que contiene");
+Console.WriteLine("Ingresa tu nombre u otras palabras para contar la cantidad de letras que contiene");
 String? Dato = Console.ReadLine();
 
 
